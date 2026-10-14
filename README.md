@@ -1,0 +1,1 @@
+**Arcane** brings your emulator games together in a PlayStation Plus–inspired experience. Use **SmartScan** to find your games and **SmartCover** to add covers and details from trusted sources. Supports **PS1, PS2, PS3, PS4, PSP, Nintendo, and Game Boy**.
