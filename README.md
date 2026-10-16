@@ -83,3 +83,31 @@ ONE LIBRARY. MORE PLAY.
 Made for the love of gaming.
 
 </div>
+
+
+
+
+---
+
+🚀 Coming Soon: ARCANE v0.2.0
+
+A major update is on the way!
+
+ARCANE v0.2.0 is coming soon, bringing major bug fixes, important improvements, and new additions to deliver a smoother, more reliable gaming-library experience.
+
+✨ What's Coming?
+
+- 🛠️ Major Bug Fixes — Fixes for existing issues and improved stability.
+- ⚙️ Core Improvements — Enhancements to existing features and workflows.
+- 🆕 New Additions — New features and improvements to make ARCANE even better.
+- 🎮 Improved Experience — A smoother way to organize, discover, and manage your game collection.
+
+We're working hard to make version 0.2.0 a meaningful step forward for ARCANE.
+
+📅 Release Date: Coming Soon
+
+Stay tuned for more updates, and thank you for supporting ARCANE!
+
+💜 One Library. More Play.
+
+---
