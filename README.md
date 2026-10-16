@@ -111,3 +111,5 @@ Stay tuned for more updates, and thank you for supporting ARCANE!
 💜 One Library. More Play.
 
 ---
+
+The new update, featuring major fixes, has arrived: Arcane 0.2.0
