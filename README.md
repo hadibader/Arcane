@@ -7,6 +7,7 @@ Bring your PC and supported emulator games together in one modern, console-inspi
 
 ⬇ DOWNLOAD ARCANE   ·   Explore the Source   ·   Report an Issue
 
+https://github.com/hadibader/Arcane/releases/tag/Arcane
 
 � � �
 
