@@ -1,85 +1,73 @@
+<div align="center">
 
-✦ ARCANE
-YOUR GAME LIBRARY. REIMAGINED.
-One library. Your entire gaming world.
-Bring your PC and supported emulator games together in one modern, console-inspired library. Discover, organize, customize, and launch your collection from one place.
+<img src="assets/icons/arcane.png" alt="ARCANE logo" width="112">
 
+# ARCANE
 
-⬇ DOWNLOAD ARCANE   ·   Explore the Source   ·   Report an Issue
+### Your games. One world.
 
-https://github.com/hadibader/Arcane/releases/tag/Arcane
+**A more personal home for your PC games, supported emulators, achievements, and play sessions.**
 
-� � �
+<br>
 
-🎮 Your games. One beautiful home.
-ARCANE is an independent gaming-library launcher built to make managing a growing collection feel simpler and more enjoyable. Its console-inspired experience brings supported games together, with tools to discover your library, enrich game artwork, and personalize the way it looks.
-Less time organizing. More time playing.
-✨ What makes ARCANE different?
+[Explore releases](https://github.com/hadibader/Arcane/releases) ·
+[Report an issue](https://github.com/hadibader/Arcane/issues) ·
+[Contact](mailto:mrhadiarcane@gmail.com)
+Arcane Page:https://arcanegaming-world.netlify.app/#download
+<br>
 
-🔎 SmartScan
-Scan selected folders to discover supported games and bring them into your library.
+**ARCANE 0.4.3 is planned for October 22, 2026.**
 
-🖼️ SmartCover
-Enhance your collection with game artwork and metadata from supported sources.
+</div>
 
-🎨 Personalization
-Make the launcher yours with themes and customization options for a more personal gaming experience.
+---
 
-🕹️ Game & Emulator Management
-Organize supported games and connect them with compatible emulators and launch workflows.
+## Welcome to ARCANE
 
-🌌 Console-inspired UI
-A gaming-focused interface designed around browsing and enjoying your collection.
+Your games deserve more than a list of shortcuts. ARCANE brings your PC library and supported emulator games into one place, with a focused desktop library and **Bigmode** for a fullscreen, controller-first experience.
 
-🖌️ Find 2K Background
-Discover high-resolution game backgrounds through the supported SteamGridDB integration.
+When you want a little world of its own, open **Pocket Nova**: a collection of local apps and creative tools inside ARCANE.
 
-🕹️ Supported gaming platforms
-ARCANE is designed to organize games from supported platforms in one library. Compatibility depends on your ARCANE version, installed emulator, configuration, and game format.
-Platform family
-Support
-PlayStation
-PS1, PS2, PS3, PS4
-PlayStation Portable
-PSP
-Nintendo
-Supported systems and formats
-Game Boy
-Supported systems and formats
-PC games
-Depends on the available integration and configuration
-Important: ARCANE is a library and launcher, not an emulator. You may need to install and configure compatible emulators separately. ARCANE does not provide copyrighted game files or BIOS files.
-🚀 Download ARCANE
+## Made for the way you play
 
-Ready to organize your gaming world?
-Open ARCANE Releases →
+- **One library for your games** — Scan, import, search, sort, and favorite games from a clean, easy-to-browse library.
+- **SmartScan** — Find games in selected folders and bring supported titles into your collection.
+- **Emulator checks** — Review emulator setup and see reported issues that may need attention.
+- **SmartCover** — Find optional game artwork and details. Refreshing artwork fills in missing art; it does not replace artwork you chose yourself.
+- **Bigmode** — Browse and launch games in a fullscreen experience designed for a controller and the big screen.
+- **Controller Center** — Inspect connected gamepads and configure supported navigation controls.
+- **Achievements** — Connect RetroAchievements to view progress for supported games.
+- **Personalization** — Choose available themes and adjust Bigmode's appearance, motion, and performance settings.
+- **Pocket Nova** — Explore local apps and tools, including notes, creative utilities, and HTML games.
+- **Backup and restore** — Protect supported local library data with backups and restore it when needed.
 
-Open the official release page.
-Find the installer in the release's Assets section.
-Download the available ARCANE Setup .exe file.
-Run the installer and follow the on-screen instructions.
-If the expected installer is not listed under Assets, check the release notes for the files currently published.
-🆕 Latest release — 0.2.0
-ARCANE 0.2.0 focuses on stability, smoother workflows, and a more polished library experience.
-🛠️ Fixes and reliability improvements across the application.
-🎮 Improvements to game and emulator linking.
-🚀 Startup-window fixes and refinements.
-🎨 Theme improvements for the launch window and Games page.
-🖼️ Find 2K Background through the supported SteamGridDB integration.
-✏️ Rename games directly to better organize your collection.
-🔌 Added an option to disconnect from the API.
-For the published build and release assets, visit the official release page.
-🛣️ Project direction
-ARCANE is evolving around one goal: a unified, customizable, console-inspired home for your games. Improvements are guided by stability, compatibility, useful library tools, and a more polished experience.
-Features and compatibility may change between releases. Check the repository and release notes for the latest confirmed information.
-💬 Feedback & community
-Found a bug, have an idea, or want to help improve ARCANE?
-Report a bug or request a feature
-Browse the source code
-Explore releases and updates
-If ARCANE looks useful to you, consider giving the repository a ⭐ on GitHub. It helps others discover the project.
+## Coming in ARCANE 0.4.3
 
-✦ ARCANE
-ONE LIBRARY. MORE PLAY.
-Made for the love of gaming.
-GitHub Repository · Releases · Issues
+The planned 0.4.3 release focuses on making ARCANE easier to set up and more comfortable to use:
+
+- A simpler first-run setup.
+- Emulator setup checks with clearer explanations of issues.
+- Customizable controller buttons.
+- Consistent navigation across pages.
+- A more complete Console experience.
+- Further performance and motion improvements.
+
+> **Planned release date: October 22, 2026.** The 0.4.3 installer and checksum will be linked from [GitHub Releases](https://github.com/hadibader/Arcane/releases) after the release is published.
+
+## Getting ARCANE
+
+Visit [GitHub Releases](https://github.com/hadibader/Arcane/releases) to see available versions and download the Windows installer.
+
+ARCANE is designed for **Windows x64**. Emulator compatibility depends on the emulator, its configuration, and the game. Follow the setup details shown in ARCANE and in the emulator's own documentation.
+
+Before installing a release, check its published SHA-256 checksum. Some optional integrations may require your own account or provider credentials.
+
+## Stay in touch
+
+Found a problem or have an idea? [Open an issue](https://github.com/hadibader/Arcane/issues) or email [mrhadiarcane@gmail.com](mailto:mrhadiarcane@gmail.com).
+
+<div align="center">
+
+*Made for the games you love, and the worlds still waiting.*
+
+</div>
