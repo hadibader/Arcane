@@ -177,7 +177,7 @@ If you enjoy the project, consider starring the repository, sharing it with othe
 
 Every bit of support helps the project grow.
 
----
+---The program isn't signed with a digital certificate yet, so some security software or Windows SmartScreen might show a warning, just like with any new program. The full source code is available here for anyone who wants to check it out.
 
 <p align="center">
   <strong>ARCANE</strong>
