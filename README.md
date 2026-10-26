@@ -1,192 +1,185 @@
 🎮 ARCANE
 
-Your Games. Your Worlds. One Experience.
+مكتبة ألعابك ومحاكياتك، بتجربة مختلفة كلياً.
 
 <p align="center">
-  <strong>A modern gaming library built to bring your gaming worlds together.</strong>
-  <br />
-  Discover, organize, customize, and launch your games through one beautiful desktop experience.
+  <strong>منصة واحدة. كل ألعابك. تجربة على طريقتك.</strong>
 </p><p align="center">
-  <a href="https://github.com/hadibader/Arcane/releases">
-    <img src="https://img.shields.io/github/v/release/hadibader/Arcane?style=for-the-badge&color=8b5cf6&label=LATEST%20RELEASE" alt="Latest Release" />
-  </a>
-  <a href="https://github.com/hadibader/Arcane/stargazers">
-    <img src="https://img.shields.io/github/stars/hadibader/Arcane?style=for-the-badge&color=a78bfa" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/hadibader/Arcane/issues">
-    <img src="https://img.shields.io/github/issues/hadibader/Arcane?style=for-the-badge&color=6366f1" alt="Issues" />
-  </a>
-</p><p align="center">
-  <a href="https://github.com/hadibader/Arcane/releases"><strong>⬇ DOWNLOAD ARCANE</strong></a>
-  &nbsp; • &nbsp;
-  <a href="https://arcanegaming-world.netlify.app/">🌐 Official Website</a>
-  &nbsp; • &nbsp;
-  <a href="#-features">Explore Features</a>
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
+  <img src="https://img.shields.io/badge/Category-Gaming%20Launcher-purple?style=for-the-badge" alt="Gaming Launcher">
+  <img src="https://img.shields.io/badge/Interface-Desktop%20%26%20Big%20Mode-8A2BE2?style=for-the-badge" alt="Interface">
+  <img src="https://img.shields.io/badge/Language-Arabic%20%26%20More-008577?style=for-the-badge" alt="Languages">
 </p>---
 
-✨ Welcome to a New Gaming Experience
+✨ ما هو ARCANE؟
 
-ARCANE is a gaming launcher designed around one simple idea: your entire gaming collection should feel like one connected world.
+ARCANE هو مدير مكتبة ألعاب ومحاكيات مصمّم ليجمع عالم الألعاب الخاص بك في مكان واحد، ضمن واجهة أنيقة وقابلة للتخصيص.
 
-Instead of juggling different libraries, scattered game shortcuts, and separate emulators, ARCANE brings supported games together in one organized, customizable interface.
+مستوحى من فكرة منصات إدارة الألعاب مثل Playnite، لكن مع هوية بصرية خاصة، وتجربة تجمع بين واجهة سطح المكتب التقليدية ووضع ملء الشاشة السينمائي.
 
-From PC gaming to emulation, from personalized artwork to a cinematic Big Picture experience, ARCANE aims to make managing your collection simpler and more enjoyable.
+سواء كنت تلعب ألعاب الكمبيوتر، أو تستخدم منصات الألعاب الرقمية، أو تستمتع بألعاب ومحاكيات الأجهزة الكلاسيكية، يهدف ARCANE إلى جعل مكتبتك أكثر تنظيماً وجمالاً وسهولة في الاستخدام.
 
-«One library. Endless possibilities. Your gaming universe.»
+🚀 المميزات
+
+🎮 مكتبة ألعاب موحّدة
+
+اجمع ألعابك في مكتبة واحدة بدلاً من التنقل بين برامج ومجلدات متعددة.
+
+- 🎯 دعم ألعاب الكمبيوتر PC.
+- 🟦 تكامل مع Steam.
+- 🟪 تكامل مع Epic Games.
+- 🟩 تكامل مع GOG.
+- 🕹️ تنظيم ألعاب المحاكيات والألعاب الكلاسيكية.
+- 📚 إدارة مكتبة ألعابك من واجهة موحّدة.
+
+قد يختلف مستوى التكامل والتشغيل بحسب المنصة وإصدار البرنامج وإعدادات المستخدم.
+
+🖥️ Desktop Mode — وضع سطح المكتب
+
+واجهة عملية لإدارة مكتبتك والتحكم بتفاصيلها.
+
+- تصفّح الألعاب وتنظيمها.
+- البحث عن الألعاب والوصول إليها بسرعة.
+- إدارة إعدادات التشغيل والمحاكيات.
+- تخصيص مظهر الواجهة حسب ذوقك.
+
+🎬 Big Mode — تجربة ملء الشاشة
+
+حوّل مكتبة ألعابك إلى تجربة سينمائية مناسبة للشاشات الكبيرة واللعب باستخدام يد التحكم.
+
+- واجهة ملء الشاشة بتصميم مخصص للألعاب.
+- تصفّح بصري لأغلفة الألعاب.
+- انتقالات وحركات واجهة ديناميكية.
+- تجربة مناسبة للجلوس واللعب من الأريكة.
+- وصول سريع إلى مكتبتك دون الحاجة إلى واجهة سطح المكتب التقليدية.
+
+🧠 SmartScan — المسح الذكي
+
+نظام للمساعدة في اكتشاف الألعاب وتنظيم المكتبة.
+
+- فحص المسارات المحددة بحثاً عن الألعاب.
+- اكتشاف ملفات الألعاب المدعومة.
+- المساعدة في تصنيف الألعاب بحسب المنصة.
+- تقليل الحاجة إلى إضافة الألعاب يدوياً.
+
+تختلف النتائج بحسب المسارات والملفات والصيغ التي يدعمها الإصدار المستخدم.
+
+🖼️ SmartCover — نظام الأغلفة الذكي
+
+لأن مكتبة الألعاب تستحق أن تبدو رائعة.
+
+- عرض أغلفة الألعاب ضمن المكتبة.
+- تحسين المظهر البصري لصفحات الألعاب.
+- دعم تنظيم المكتبة بأسلوب غني بالصور.
+- إمكانية الاستفادة من مصادر الأغلفة المتوافقة عند إعدادها.
+
+🕹️ دعم المحاكيات
+
+نظّم ألعابك الكلاسيكية بجانب ألعاب الكمبيوتر ضمن تجربة واحدة.
+
+- إدارة الألعاب المرتبطة بالمحاكيات المدعومة.
+- ربط ملفات الألعاب بالمحاكي المناسب.
+- إعداد مسارات المحاكيات وملفات الألعاب.
+- إمكانية توسيع الدعم بحسب المحاكي والمنصة.
+
+يتطلب التشغيل وجود المحاكي المناسب وملفاته وإعداداته اللازمة.
+
+🎨 التخصيص والهوية البصرية
+
+ARCANE ليس مجرد قائمة ألعاب؛ بل مساحة يمكنك تشكيلها بحسب ذوقك.
+
+- تخصيص مظهر الواجهة.
+- العمل على تجربة بصرية مميزة لوضع ملء الشاشة.
+- تطوير نظام الثيمات والأغلفة.
+- تصميم تجربة تجمع بين الجمال وسهولة الاستخدام.
 
 ---
 
-🚀 Features
+🛡️ تنبيه أمني وشفافية
 
-🎮 One Unified Gaming Library
+ARCANE غير موقّع حالياً بشهادة توقيع رقمي موثوقة.
 
-Bring supported PC games and emulator-based games together in one place. Organize your collection and launch games without unnecessary complexity.
+لهذا السبب، قد يعرض Windows SmartScreen أو بعض برامج الحماية تحذيراً عند تنزيل البرنامج أو تشغيله، خصوصاً لأن المشروع جديد أو لأن سمعته وبيانات سمعته الرقمية لم تتكوّن بعد.
 
-🔍 SmartScan
+هذا التحذير لا يثبت وحده أن البرنامج ضار، لكنه أيضاً لا يثبت أن البرنامج آمن.
 
-Scan your selected game folders to discover and organize supported games, making it easier to build your personal library.
+نحن نوضّح هذه النقطة بشفافية، ونشجّع المستخدمين على مراجعة المشروع ومصدر الملفات قبل التشغيل.
 
-🖼️ SmartCover
+- 📂 الشيفرة المصدرية متاحة للمراجعة عبر مستودع GitHub.
+- 🔎 يمكن للمستخدمين فحص الشيفرة والإبلاغ عن المشكلات.
+- 🛡️ يُنصح بتنزيل الإصدارات من صفحة Releases الرسمية فقط.
+- ⚠️ لا تشغّل البرنامج إذا ظهرت مؤشرات موثوقة على وجود برمجيات ضارة، حتى لو كانت الشيفرة المصدرية متاحة.
 
-Give your collection a polished look with game artwork and covers, turning a list of games into a visually rich library.
-
-🎨 Theme Studio
-
-Personalize your experience with customizable themes and visual styles designed to make ARCANE feel like your own gaming environment.
-
-🕹️ Big Picture Mode
-
-Enjoy a more immersive, console-inspired interface designed for larger screens and a controller-friendly gaming setup.
-
-📱 Pocket Nova
-
-Explore additional gaming experiences through supported HTML games and Android-related features. Availability depends on the installed components and device configuration.
-
-⚙️ Emulator Integration
-
-Organize supported emulator games and configure their launch paths to create a more convenient retro-gaming experience.
-
-🧩 Built Around Simplicity
-
-ARCANE focuses on an approachable experience: organize your collection, customize its appearance, configure your games, and play.
+ملاحظة: مراجعة الشيفرة المصدرية وحدها لا تضمن أن الملف التنفيذي المنشور مطابق لها أو خالٍ من الأخطاء والبرمجيات الضارة.
 
 ---
 
-🖥️ Experience ARCANE
+📥 التنزيل والتثبيت
+
+يمكنك الوصول إلى المشروع وإصداراته من الروابط التالية:
+
+- المستودع الرسمي: https://github.com/hadibader/Arcane
+- الإصدارات والتنزيلات: https://github.com/hadibader/Arcane/releases
+
+1. افتح صفحة الإصدارات.
+2. اختر الإصدار المناسب.
+3. نزّل ملف التثبيت أو النسخة المتاحة.
+4. راجع التحذيرات الأمنية قبل التشغيل، وتأكد من مصدر الملف.
+
+إذا لم تتوفر ملفات إصدار جاهزة، يمكنك مراجعة الشيفرة المصدرية وتعليمات البناء الموجودة في المستودع.
+
+---
+
+🛠️ التقنية
+
+تم تطوير ARCANE باستخدام تقنيات تطبيقات سطح المكتب الحديثة، ويعتمد المشروع على:
+
+- Electron — لتشغيل التطبيق على سطح المكتب.
+- React — لبناء واجهات المستخدم.
+- Vite — لتطوير وتجميع الواجهة.
+- TypeScript — لتنظيم الشيفرة وتحسين موثوقيتها.
+
+قد تختلف متطلبات البناء بحسب إصدار المشروع وبيئة التطوير.
+
+---
+
+🗺️ رؤية المشروع
+
+هدف ARCANE هو بناء تجربة متكاملة لإدارة الألعاب والمحاكيات، مع التركيز على:
+
+- تنظيم مكتبة الألعاب في مكان واحد.
+- توفير واجهة جميلة وعملية.
+- جعل تجربة ملء الشاشة جزءاً أساسياً من هوية البرنامج.
+- تحسين اكتشاف الألعاب وإدارة أغلفتها.
+- تطوير ميزات جديدة بناءً على احتياجات المستخدمين وملاحظاتهم.
+
+المشروع قيد التطوير، وقد تختلف المميزات المتاحة بحسب الإصدار.
+
+---
+
+🤝 المساهمة والإبلاغ عن المشكلات
+
+هل وجدت مشكلة؟ هل لديك فكرة أو اقتراح؟
+
+يمكنك المساهمة في تطوير ARCANE عبر:
+
+- فتح Issue للإبلاغ عن خطأ.
+- اقتراح ميزة جديدة.
+- مراجعة الشيفرة المصدرية.
+- مشاركة ملاحظاتك حول الأداء وتجربة الاستخدام.
+
+يرجى توضيح إصدار البرنامج وخطوات إعادة إنتاج المشكلة عند الإبلاغ عنها.
+
+---
+
+📜 الترخيص
+
+يرجى مراجعة ملف "LICENSE" في المستودع لمعرفة شروط استخدام الشيفرة المصدرية وتعديلها وإعادة توزيعها. إتاحة الشيفرة على GitHub لا تعني تلقائياً أنها مرخّصة للاستخدام الحر.
+
+---
 
 <p align="center">
-  <strong>Your Library. Your Style. Your Rules.</strong>
-</p>«📸 Screenshots coming here
-
-Add screenshots of your actual ARCANE interface to showcase the Home screen, game library, Theme Studio, and Big Picture Mode.
-
-Example:
-
-"![ARCANE Game Library](docs/images/library.png)"
-
-Replace the example path with the location of your real screenshot.»
-
----
-
-📥 Download & Install
-
-Get the Latest Release
-
-1. Visit the "ARCANE Releases page" (https://github.com/hadibader/Arcane/releases).
-2. Open the latest available release.
-3. Download the appropriate installer or package listed in that release.
-4. Run the installer and follow the instructions.
-5. Launch ARCANE and configure your game folders and supported emulators.
-
-Tip: Check the release notes for changes, fixes, and compatibility information before updating.
-
----
-
-🧭 Getting Started
-
-Step 1 — Set up your library
-
-Choose the folders containing your games and use the available scanning tools to discover supported titles.
-
-Step 2 — Configure your games
-
-Review game paths, emulator settings, and launch configurations where required.
-
-Step 3 — Make it yours
-
-Explore the available themes and customize the appearance of your library.
-
-Step 4 — Choose your experience
-
-Use the desktop interface for managing your collection or Big Picture Mode for a more immersive gaming setup.
-
-Step 5 — Play
-
-Select a configured game and launch it from your library.
-
----
-
-🛠️ Technology
-
-ARCANE is built using modern desktop application technologies.
-
-- Electron — desktop application foundation
-- React — user interface
-- Vite — development and build tooling
-
-Additional dependencies and native components may vary by release.
-
----
-
-🗺️ Project Vision
-
-ARCANE is an evolving project focused on improving the way players organize and experience their games.
-
-Our priorities include:
-
-- Refining the user interface and overall performance
-- Improving game discovery and library management
-- Expanding supported gaming integrations
-- Enhancing customization and theming
-- Improving the Big Picture experience
-- Developing Pocket Nova and its supported capabilities
-- Fixing bugs and improving reliability
-
-Features and availability may change as the project develops.
-
----
-
-💬 Feedback & Support
-
-Found a bug? Have an idea that could make ARCANE better?
-
-- 🐛 "Report a bug" (https://github.com/hadibader/Arcane/issues)
-- 💡 "Suggest an improvement" (https://github.com/hadibader/Arcane/issues)
-- ⭐ "Star the repository" (https://github.com/hadibader/Arcane)
-- 🌐 "Visit the official website" (https://arcanegaming-world.netlify.app/)
-
-Your feedback helps shape the future of ARCANE.
-
----
-
-❤️ Support Independent Development
-
-ARCANE is an independent project built with a passion for gaming, software development, and creating a better experience for players.
-
-If you enjoy the project, consider starring the repository, sharing it with other gamers, or contributing constructive feedback.
-
-Every bit of support helps the project grow.
-
----The program isn't signed with a digital certificate yet, so some security software or Windows SmartScreen might show a warning, just like with any new program. The full source code is available here for anyone who wants to check it out.
-
-<p align="center">
-  <strong>ARCANE</strong>
-  <br />
-  <em>Every game has a home.</em>
-  <br /><br />
-  Built for gamers. Designed for your world.
-  <br /><br />
-  <a href="https://github.com/hadibader/Arcane">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://arcanegaming-world.netlify.app/">Website</a>
+  <strong>ARCANE — عالم ألعابك، بأسلوبك.</strong>
+</p><p align="center">
+  صُنع بشغف لعشّاق الألعاب والمحاكيات.
 </p>
