@@ -3,7 +3,7 @@ One Library. Every Game. Your Gaming World, Unified.
 A Windows gaming hub for organizing PC games and supported emulated games in one customizable library.
 � � �
 ⬇️ Download ARCANE 0.6.10 Fixed · All Releases · Report a Bug
-
+https://github.com/hadibader/Arcane/releases/tag/ArcaneFixed
 🎮 What is ARCANE?
 ARCANE brings your supported games, emulators, artwork, and customization into one desktop experience. Use DesktopMode to manage your collection and BigMode for a more immersive, controller-oriented interface.
 Recommended download: ARCANE 0.6.10 Fixed. The older 0.6.10 Local Test package is not the recommended installer.
