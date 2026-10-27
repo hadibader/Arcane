@@ -21,6 +21,30 @@ One Library. Every Game. Infinite Possibilities.
   <a href="#-installation">Installation</a> •
   <a href="#-roadmap">Roadmap</a>
 </p>---
+Note: 🚀 ARCANE — Integrated Torrent & FitGirl Game Installation
+
+Your Games. Your Library. One Seamless Experience.
+
+ARCANE takes game management to the next level with its new Torrent Download & FitGirl Integration feature, bringing game downloading, installation, and library management closer together in one unified experience.
+
+🎮 Key Features
+
+- Torrent Download Support — Download games through supported torrent files and manage downloads directly within the ARCANE experience.
+- FitGirl Source Integration — Access supported FitGirl game sources through an integrated workflow.
+- Simplified Installation Workflow — Launch the installation process and manage game setup with a more convenient experience.
+- Automatic Library Integration — Add installed games to your ARCANE library, with automatic detection where supported.
+- Centralized Game Management — Keep your game collection organized in one place instead of switching between multiple tools.
+- A More Connected Gaming Experience — Bring downloading, installation, and game library management together in a single application.
+
+One Launcher. A More Complete Gaming Experience.
+
+ARCANE is evolving beyond a traditional game launcher. With integrated download workflows and game installation support, it aims to make managing a PC gaming collection easier, more organized, and more convenient.
+
+Download. Install. Organize. Play.
+
+ARCANE — Built to bring your gaming world together.
+
+Note: Source availability, installation requirements, and automatic game detection depend on the supported source and game. Users must have the necessary rights to download and use game files.
 
 🎮 More Than a Game Launcher
 
