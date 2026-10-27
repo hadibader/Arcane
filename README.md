@@ -1,44 +1,40 @@
 
-￼
 ⚡ ARCANE
-One Library. Every Game.
-A customizable Windows gaming hub for your PC games and supported emulators.
-⬇️ Download ARCANE 0.6.10 Fixed · Screenshots · Report a Bug
+ONE LIBRARY. EVERY GAME.
+Your games. Your emulators. Your world.
 � � �
+⬇️ DOWNLOAD ARCANE 0.6.10 FIXED
+All Releases · Report a Bug
 
-🎮 Your games. One home.
-ARCANE brings your game collection, supported emulators, artwork, and customization together in one place.
-🕹️ DesktopMode
-🎬 BigMode
-🎨 Make it yours
-Organize and manage your library
-A cinematic, controller-friendly view
-Themes, covers, and personalization
-✨ Highlights
+🎮 One home for your games
+ARCANE is a customizable Windows gaming hub for organizing PC games and supported emulated games in one library.
+🕹️ DESKTOP MODE
+🎬 BIG MODE
+🎨 YOUR STYLE
+Manage your collection
+Controller-friendly experience
+Themes and game artwork
+✨ Features
 SmartScan — Scan configured folders for supported game files.
-SmartCover — Give your library a richer look with game artwork.
-Emulator support — Link compatible games to configured emulators.
-Theme Studio & Gallery — Customize the experience.
+SmartCover — Add artwork to make your library look better.
+Emulator linking — Connect compatible games to configured emulators.
+Theme Studio & Gallery — Customize the interface.
 Pocket Nova — Explore supported HTML games and apps.
-Download workflows — Torrent files and FitGirl-source workflows are included in 0.6.10; availability depends on configuration and source.
-🖼️ Inside ARCANE
+Torrent & FitGirl-source workflows — Included in 0.6.10; availability depends on configuration and source.
+🖼️ A look inside ARCANE
 
-￼ ￼
+�
+�
 
-⬇️ Download & install
+🚀 Install in 3 steps
+1. Download the recommended ARCANE 0.6.10 Fixed installer above.
+2. Run the installer and follow the setup instructions.
+3. Configure your game folders and emulator paths.
+Important: The older 0.6.10 Local Test installer is not the recommended build. Only run installers you trust. If Windows or your antivirus displays a warning, verify the file and its source before proceeding.
+🧰 Need help?
+Open GitHub Issues. Include your ARCANE version, Windows version, and steps to reproduce the issue. Remove passwords, API keys, and other private information from logs.
+⚖️ Please note
+ARCANE is a launcher and library tool. You are responsible for ensuring you have the rights to any games, firmware, and files you use. Third-party tools and download sources may have their own terms.
 
-Recommended: ARCANE 0.6.10 Fixed
-GET ARCANE — WINDOWS INSTALLER
-View release notes & other builds
-
-Download the 0.6.10 Fixed installer.
-Run the installer and follow the setup steps.
-Open ARCANE, then configure your game folders and emulator paths.
-Note: The older 0.6.10 Local Test package is not the recommended download. Only install software you trust. If Windows or your antivirus warns about the installer, verify the source and file before deciding whether to proceed.
-🛠️ Help & feedback
-Found a problem or have an idea? Open a GitHub Issue and include your ARCANE version, Windows version, and steps to reproduce the issue. Remove passwords, API keys, and other private information from logs.
-⚖️ A quick note
-ARCANE is a launcher and library tool. You are responsible for ensuring you have the rights to any games, firmware, and files you download or use. Third-party tools and sources may have their own terms.
-
-Built independently with 💜 for gamers.
-Download · Issues · Repository
+Made independently with 💜 for gamers.
+⬇️ Download ARCANE · ⭐ Explore the Repository
