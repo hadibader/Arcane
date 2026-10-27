@@ -1,40 +1,64 @@
+<div align="center">
 
-⚡ ARCANE
-ONE LIBRARY. EVERY GAME.
-Your games. Your emulators. Your world.
-� � �
-⬇️ DOWNLOAD ARCANE 0.6.10 FIXED
-All Releases · Report a Bug
+# ⚡ ARCANE
+### **ONE LIBRARY. EVERY GAME.**
+*Your games. Your emulators. Your world.*
 
-🎮 One home for your games
-ARCANE is a customizable Windows gaming hub for organizing PC games and supported emulated games in one library.
-🕹️ DESKTOP MODE
-🎬 BIG MODE
-🎨 YOUR STYLE
-Manage your collection
-Controller-friendly experience
-Themes and game artwork
-✨ Features
-SmartScan — Scan configured folders for supported game files.
-SmartCover — Add artwork to make your library look better.
-Emulator linking — Connect compatible games to configured emulators.
-Theme Studio & Gallery — Customize the interface.
-Pocket Nova — Explore supported HTML games and apps.
-Torrent & FitGirl-source workflows — Included in 0.6.10; availability depends on configuration and source.
-🖼️ A look inside ARCANE
+[![GitHub Release](https://img.shields.io/badge/Release-v0.6.10%20Fixed-7C3AED?style=for-the-badge&logo=github)](https://github.com/hadibader/Arcane/releases/tag/ArcaneFixed)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/hadibader/Arcane)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/hadibader/Arcane/blob/main/LICENSE)
 
-�
-�
+[**⬇️ Download Latest Build**](https://github.com/hadibader/Arcane/releases/tag/ArcaneFixed) · [All Releases](https://github.com/hadibader/Arcane/releases) · [Report a Bug](https://github.com/hadibader/Arcane/issues)
 
-🚀 Install in 3 steps
-1. Download the recommended ARCANE 0.6.10 Fixed installer above.
-2. Run the installer and follow the setup instructions.
-3. Configure your game folders and emulator paths.
-Important: The older 0.6.10 Local Test installer is not the recommended build. Only run installers you trust. If Windows or your antivirus displays a warning, verify the file and its source before proceeding.
-🧰 Need help?
-Open GitHub Issues. Include your ARCANE version, Windows version, and steps to reproduce the issue. Remove passwords, API keys, and other private information from logs.
-⚖️ Please note
-ARCANE is a launcher and library tool. You are responsible for ensuring you have the rights to any games, firmware, and files you use. Third-party tools and download sources may have their own terms.
+</div>
 
-Made independently with 💜 for gamers.
-⬇️ Download ARCANE · ⭐ Explore the Repositoryhttps://github.com/hadibader/Arcane/releases/tag/ArcaneFixed
+---
+
+## 🎮 One Home for Your Games
+
+**ARCANE** is a customizable Windows gaming hub designed to organize your PC games and supported emulated games into one seamless, unified library.
+
+| 🕹️ DESKTOP MODE | 🎬 BIG PICTURE | 🎨 YOUR STYLE |
+| :---: | :---: | :---: |
+| Manage your local collection effortlessly. | Controller-friendly experience for your couch. | Deep customization with themes and game artwork. |
+
+---
+
+## ✨ Key Features
+
+* **SmartScan** — Automatically scan your configured directories for supported game files.
+* **SmartCover** — Dynamic artwork fetching to make your library visually stunning.
+* **Emulator Linking** — Connect compatible games smoothly to your preferred emulators.
+* **Theme Studio & Gallery** — Customize the UI appearance to match your vibe.
+* **Pocket Nova** — Explore and launch supported HTML games and companion apps.
+* **Torrent & Repack Workflows** — Integrated workflows in `0.6.10` (availability depends on configuration and source).
+
+---
+
+## 🚀 Install in 3 Steps
+
+1. **Download** the recommended **ARCANE 0.6.10 Fixed** installer from the [Releases Page](https://github.com/hadibader/Arcane/releases/tag/ArcaneFixed).
+2. **Run** the installer and follow the on-screen setup instructions.
+3. **Configure** your game directories and emulator paths.
+
+> ⚠️ **Important Note:** 
+> The older `0.6.10 Local Test` installer is **not** the recommended build. Always run trusted executables. If Windows or your antivirus triggers a notification, verify the file and its source before proceeding.
+
+---
+
+## 🧰 Need Help?
+
+Found a bug or have a suggestion? Open an issue on [GitHub Issues](https://github.com/hadibader/Arcane/issues). 
+*Please include your ARCANE version, Windows version, and steps to reproduce the issue. Make sure to remove passwords, API keys, or private logs before posting.*
+
+---
+
+## ⚖️ Legal & Disclaimer
+
+ARCANE is strictly a launcher and library management tool. You are entirely responsible for ensuring you have the legal rights to any games, BIOS, firmware, and files you use. Third-party download sources and tools operate under their own terms.
+
+---
+
+<div align="center">
+  <em>Made independently with 💜 for gamers.</em>
+</div>
