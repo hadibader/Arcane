@@ -1,4 +1,3 @@
-
 ⚡ ARCANE
 One Library. Every Game. Your Gaming World, Unified.
 A Windows gaming hub for organizing PC games and supported emulated games in one customizable library.
