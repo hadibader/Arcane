@@ -46,6 +46,10 @@ ARCANE — Built to bring your gaming world together.
 
 Note: Source availability, installation requirements, and automatic game detection depend on the supported source and game. Users must have the necessary rights to download and use game files.
 
+
+Releases: https://github.com/hadibader/Arcane/releases
+
+
 🎮 More Than a Game Launcher
 
 Gaming has evolved. Your library shouldn't be scattered across launchers, folders, emulators, and disconnected experiences.
