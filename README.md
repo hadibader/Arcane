@@ -37,4 +37,4 @@ Open GitHub Issues. Include your ARCANE version, Windows version, and steps to r
 ARCANE is a launcher and library tool. You are responsible for ensuring you have the rights to any games, firmware, and files you use. Third-party tools and download sources may have their own terms.
 
 Made independently with 💜 for gamers.
-⬇️ Download ARCANE · ⭐ Explore the Repository
+⬇️ Download ARCANE · ⭐ Explore the Repositoryhttps://github.com/hadibader/Arcane/releases/tag/ArcaneFixed
