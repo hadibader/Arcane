@@ -4,11 +4,11 @@
 ### **ONE LIBRARY. EVERY GAME.**
 *Your games. Your emulators. Your world.*
 
-[![GitHub Release](https://github.com/hadibader/Arcane/releases/download/ARCANE-Gaming-0.6.10-Local-Test-Setup/ARCANE-Gaming-0.6.10-Fixed.2.Setup.exe)](https://github.com/hadibader/Arcane/releases/tag/ArcaneFixed)
+[![GitHub Release](https://img.shields.io/badge/Release-v0.6.10%20Local%20Test-7C3AED?style=for-the-badge&logo=github)](https://github.com/hadibader/Arcane/releases/tag/ARCANE-Gaming-0.6.10-Local-Test-Setup)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/hadibader/Arcane)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/hadibader/Arcane/blob/main/LICENSE)
 
-[**⬇️ Download Latest Build**](https://github.com/hadibader/Arcane/releases/tag/ArcaneFixed) · [All Releases](https://github.com/hadibader/Arcane/releases) · [Report a Bug](https://github.com/hadibader/Arcane/issues)
+[**⬇️ Download Latest Build**](https://github.com/hadibader/Arcane/releases/tag/ARCANE-Gaming-0.6.10-Local-Test-Setup) · [All Releases](https://github.com/hadibader/Arcane/releases) · [Report a Bug](https://github.com/hadibader/Arcane/issues)
 
 </div>
 
@@ -37,12 +37,12 @@
 
 ## 🚀 Install in 3 Steps
 
-1. **Download** the recommended **ARCANE 0.6.10 Fixed** installer from the [Releases Page](https://github.com/hadibader/Arcane/releases/tag/ArcaneFixed).
+1. **Download** the `ARCANE 0.6.10 Local Test` installer from the [Releases Page](https://github.com/hadibader/Arcane/releases/tag/ARCANE-Gaming-0.6.10-Local-Test-Setup).
 2. **Run** the installer and follow the on-screen setup instructions.
 3. **Configure** your game directories and emulator paths.
 
 > ⚠️ **Important Note:** 
-> The older `0.6.10 Local Test` installer is **not** the recommended build. Always run trusted executables. If Windows or your antivirus triggers a notification, verify the file and its source before proceeding.
+> Always run trusted executables. If Windows or your antivirus triggers a notification during installation, verify the file and its source before proceeding.
 
 ---
 
