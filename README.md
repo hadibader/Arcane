@@ -4,11 +4,11 @@
 ### **ONE LIBRARY. EVERY GAME.**
 *Your games. Your emulators. Your world.*
 
-[![GitHub Release](https://img.shields.io/badge/Release-v1.0.4--Final%20Stable-7C3AED?style=for-the-badge&logo=github)](https://github.com/hadibader/Arcane/releases/tag/Arcane1.0.4)
+[![GitHub Release](https://img.shields.io/badge/Release-v1.0.4--Final%20Stable-7C3AED?style=for-the-badge&logo=github)](https://github.com/hadibader/Arcane/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/hadibader/Arcane)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/hadibader/Arcane/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/hadibader/Arcane)
 
-[**⬇️ Download ARCANE 1.0.4**](https://github.com/hadibader/Arcane/releases/tag/Arcane1.0.4) · [All Releases](https://github.com/hadibader/Arcane/releases) · [Report a Bug](https://github.com/hadibader/Arcane/issues)
+[**⬇️ Download ARCANE 1.0.4**](https://github.com/hadibader/Arcane/releases/latest) · [All Releases](https://github.com/hadibader/Arcane/releases) · [Report a Bug](https://github.com/hadibader/Arcane/issues)
 
 </div>
 
@@ -50,7 +50,7 @@ Building directly upon the major overhaul of v0.8.0, version **1.0.4** is the de
 
 ## 📥 Installation & Setup
 
-1. **Download** the official `ARCANE 1.0.4` installer from [GitHub Releases](https://github.com/hadibader/Arcane/releases/tag/Arcane1.0.4).
+1. **Download** the official `ARCANE 1.0.4` installer from [GitHub Releases](https://github.com/hadibader/Arcane/releases/latest).
 2. **Run** the setup file and follow the on-screen installation wizard.
 3. **Configure** your game folders, ROM directories, and emulator paths inside Settings.
 
